@@ -2,7 +2,7 @@
 
 Download the game files and navigate to the directory using the commands below:
 ```
-git clone (https://github.com/mrwno/IA-Parabox)
+git clone (https://github.com/Brian4333/AI-Parabox.git)
 cd ./IA-Parabox
 ```
 
